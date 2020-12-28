@@ -14,15 +14,15 @@ export const data = [
 	},
 		{
 		symbol: 'ETH/USDT',
-		full_name: 'BTC/USDT',
-		description: 'Bitcoin / TetherUS',
+		full_name: 'ETH/USDT',
+		description: 'Etherium / TetherUS',
 		exchange: 'BINANCE',
 		type: 'crypto'
 	},
 		{
 		symbol: 'BCH/USDT',
-		full_name: 'BTC/USDT',
-		description: 'Bitcoin / TetherUS',
+		full_name: 'BCH/USDT',
+		description: 'Bitcoin Cash / TetherUS',
 		exchange: 'BINANCE',
 		type: 'crypto'
 	}
