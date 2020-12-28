@@ -1,13 +1,13 @@
 export default {
-  "BTCUSDT Perpetual": "Binance"
+  "BINANCE:BTCUSDTPERP": "BINANCE"
 }
 
 export const data = [
 	{
-		symbol: 'BTCUSDT Perpetual',
-		full_name: 'BTCUSDT Perpetual',
-		description: '',
-		exchange: 'Binance',
-		type: 'type'
+		symbol: 'BINANCE:BTCUSDTPERP',
+		full_name: 'BINANCE:BTCUSDTPERP',
+		description: 'Bitcoin / TetherUS PERPETUAL FUTURES',
+		exchange: 'BINANCE',
+		type: 'crypto'
 	}
 ]
