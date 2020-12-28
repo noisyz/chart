@@ -31,7 +31,7 @@ const TIME_FRAMES = [
 export class TVChartContainer extends React.PureComponent {
 
   static defaultProps = {
-    symbol: 'BTC/USDT',
+    symbol: 'BTC/USD',
     interval: '15',
     containerId: 'tv-chart',
     libraryPath: "/charting_library/",
