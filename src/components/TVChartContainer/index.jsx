@@ -41,7 +41,7 @@ export class TVChartContainer extends React.PureComponent {
     userId: 'public_user_id',
     fullscreen: false,
     autosize: true,
-    studiesOverrides: {'BB'},
+    studiesOverrides: {"Bollinger Bands_study"},
     theme: 'Dark'
   };
 
