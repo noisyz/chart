@@ -1,12 +1,12 @@
 export default {
-  "BTC/USDTPERP": "Binance"
+  "BTCUSDTPERP": "Binance"
 }
 
 export const data = [
 	{
-		symbol: 'BTC/USDTPERP',
-		full_name: 'BTC/USDTPERP',
-		description: 'description',
+		symbol: 'BTCUSDTPERP',
+		full_name: 'BTCUSDTPERP',
+		description: '',
 		exchange: 'Binance',
 		type: 'type'
 	}
