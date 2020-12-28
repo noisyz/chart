@@ -51,6 +51,7 @@ export class TVChartContainer extends React.PureComponent {
       symbol: this.props.symbol,
       datafeed: Datafeed,
       interval: this.props.interval,
+      load_last_chart: true,
       container_id: this.props.containerId,
       library_path: this.props.libraryPath,
       locale: 'en',
