@@ -2,7 +2,7 @@ import historyProvider from './historyProvider'
 import stream from './stream'
 import { data } from './pairs'
 
-const supportedResolutions = ["1", "3", "5", "15", "30", "60", "120", "240", "D", "W"]
+const supportedResolutions = ["1", "3", "5", "6", "15", "30", "60", "120", "240", "D", "W"]
 
 const config = {
   supported_resolutions: supportedResolutions
