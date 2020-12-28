@@ -1,28 +1,28 @@
 export default {
-  "BTC/USDT": "Binance",
-  "BCH/USDT": "Binance",
-  "ETH/USDT": "Binance"
+  "BTC/USD": "Binance",
+  "BCH/USD": "Binance",
+  "ETH/USD": "Binance"
 }
 
 export const data = [
 	{
-		symbol: 'BTC/USDT',
-		full_name: 'BTC/USDT',
+		symbol: 'BTC/USD',
+		full_name: 'BTC/USD',
 		description: '',
 		exchange: 'Binance',
 		type: 'crypto'
 	},
 		{
-		symbol: 'ETH/USDT',
-		full_name: 'ETH/USDT',
+		symbol: 'ETH/USD',
+		full_name: 'ETH/USD',
 		description: '',
 		exchange: 'Binance',
 		type: 'crypto'
 	},
 		{
-		symbol: 'BCH/USDT',
-		full_name: 'BCH/USDT',
-			description: '',
+		symbol: 'BCH/USD',
+		full_name: 'BCH/USD',
+		description: '',
 		exchange: 'Binance',
 		type: 'crypto'
 	}
